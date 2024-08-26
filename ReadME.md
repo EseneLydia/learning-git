@@ -9,3 +9,7 @@ STEP 1: First, i downloaded Git from the git website (https://git-scm.com/downlo
 STEP 2: Then i installed it on my PC and followed the installation instructions to complete the installation
 
 STEP 3: I configured git to my PC by adding my username and email globally
+
+STEP 4: Learn how to initialize git to a folder 
+
+STEP 5: Learn how to check the git status and also add a file so that it can be tracked by git
